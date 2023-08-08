@@ -17,15 +17,10 @@ public class Grupo11 {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Hola, soy Nahum!");
-
-        System.out.println("soy matias");
-        
-
+        System.out.println("soy matias");     
         System.out.println("El perrito ladra");
-
-
-
         System.out.println("Y el gatito maulla");
+        System.out.println("ahora va");
 
     }
     
