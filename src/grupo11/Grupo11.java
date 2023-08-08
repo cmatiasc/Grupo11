@@ -23,6 +23,10 @@ public class Grupo11 {
 
         System.out.println("El perrito ladra");
 
+
+
+        System.out.println("Y el gatito maulla");
+
     }
     
 }
