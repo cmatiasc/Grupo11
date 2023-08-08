@@ -19,8 +19,15 @@ public static void Leer(){
     
     
     System.out.println("Estas leyeno esto?");
-    nuevo.nextLine();
- 
+    String confirmacion = nuevo.nextLine();
     
+    
+    if (confirmacion.equalsIgnoreCase("si")) {
+        
+        System.out.println("Bien hecho.. aplausos");
+ 
+    }else{
+        System.out.println("Mal hecho..");
+    }
 }
 }
